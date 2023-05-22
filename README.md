@@ -12,8 +12,10 @@
 - 💬 Ask me about **Blender, Video Editing, Aviation, Aircrafts, Space research, Rockets**
 
 - 📫 How to reach me **emil.checks4email@gmail.com**
-
-<img align="centre" alt="Coding" width="400" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
+<p align="center">
+<img align="left" alt="Passion" width="600" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
+<img align="center" alt="Joy" width="255" src="https://cdn.dribbble.com/users/22930/screenshots/3203831/gamer.gif">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

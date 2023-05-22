@@ -31,4 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emilosaurus&" alt="emilosaurus" /></p>
 
-
+**My snake has few little to eat**
+![snake gif](https://github.com/Emilosaurus/Emilosaurus/blob/output/github-contribution-grid-snake.gif)

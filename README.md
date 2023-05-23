@@ -13,8 +13,8 @@
 
 - 📫 How to reach me **emil.checks4email@gmail.com**
 <p align="center"> 
-<img align="left" alt="Passion" width="580" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
-<img align="center" alt="Joy" width="240" src="https://cdn.dribbble.com/users/22930/screenshots/3203831/gamer.gif">
+<img align="left" alt="Emilosaurus" width="585" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
+<img align="center" alt="Emilosaurus" width="250" src="https://cdn.dribbble.com/users/22930/screenshots/3203831/gamer.gif">
 </p>
 <hr style="border:2px solid gray">
 <h3 align="left">Connect with me:</h3>
@@ -80,11 +80,31 @@
 
 <p><img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilosaurus&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="emilosaurus" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emilosaurus&show_icons=true&locale=en&theme=gruvbox" alt="emilosaurus" /></p>
+<p>&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=emilosaurus&show_icons=true&locale=en&theme=gruvbox" alt="emilosaurus" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emilosaurus&theme=gruvbox" alt="emilosaurus" /></p>
+<p><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=emilosaurus&theme=gruvbox" alt="emilosaurus" /></p>
 
 #    
     
-**My snake has few little to eat**
+**Feed my Snake**
 ![snake gif](https://github.com/Emilosaurus/Emilosaurus/blob/output/github-contribution-grid-snake.gif)
+
+<hr style="border:2px solid gray">
+<p align="center"> 
+ <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="150" height="150"/>
+   </p>
+<h2 align="center">Some of my Blender works</h2>
+
+<p align="center"> 
+<img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/dd367d88-f8c2-430e-a1b3-41ff4efc3dd5" alt="ezgif-1-46da791e9f" width="200"style="margin-right: 60px;">
+
+<img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/1e6438fb-9322-4c4b-a45a-774b89240a94" alt="ezgif-1-e6ed92ede4" width="200" height="350">
+  
+<img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/ca3f3a5d-5ddb-4f16-8e96-2ec2d8e2969b" alt="ezgif-1-6ec17727cc" width="200" height="350">  
+
+<img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/44e3d291-e9ad-42e6-8d8e-765c59b58d21" alt="ezgif-1-9a9a759aae" width="200" height="350">  
+</p>
+
+
+

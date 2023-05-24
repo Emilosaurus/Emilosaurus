@@ -134,4 +134,8 @@
 <img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/0ab919e2-60ae-4477-a199-37c1923172d6" alt="ezgif-1-c7d8e1c3ec" width="200" height="350"> 
   </details>
 </p>
-
+<p>
+<a href="https://github.com/Emilosaurus/Blender-Projects/tree/main/Sand%20dune" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
+  </a>
+</p>

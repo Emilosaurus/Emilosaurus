@@ -109,9 +109,16 @@
 <p align="center">
   
 <a href="https://github.com/Emilosaurus/Blender-Projects/tree/main/Sand%20dune" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/38c40ba9-fe14-45f3-a996-c252e62c567d" alt="java" width="50" height="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5994/5994710.png" alt="java" width="50" height="50"/>
   </a>
-
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Emilosaurus/Blender-Projects/tree/main/Sand%20dune" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/5994/5994710.png" alt="java" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Emilosaurus/Blender-Projects/tree/main/Sand%20dune" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/5994/5994710.png" alt="java" width="50" height="50"/>
+  </a>  
 
 <h5 align="center">----------</h5>
 </details>

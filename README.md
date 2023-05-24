@@ -86,15 +86,20 @@
 
 #    
     
-**Feed my Snake**
+**Surprize !! There's a  Snake**
 ![snake gif](https://github.com/Emilosaurus/Emilosaurus/blob/output/github-contribution-grid-snake.gif)
 
 <hr style="border:2px solid gray">
 <p align="center"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="100" height="100"/>
    </p>
+   
+<details align="center"> 
+  <summary>
 <h2 align="center"> My Blender works</h2>
-
+ </summary>
+  
+  <br>
 <p align="center"> 
 <img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/dd367d88-f8c2-430e-a1b3-41ff4efc3dd5" alt="ezgif-1-46da791e9f" width="200"style="margin-right: 60px;">
   </a> 
@@ -106,7 +111,7 @@
 
 
 <h5 align="center">----------</h5>
-
+</details>
 </p>
 
 
@@ -114,7 +119,19 @@
 <hr style="border:2px solid gray">
 <p align="center"> 
  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="100" height="100"/>
+  <details align="center"> 
+  <summary>
 <h2 align="center">My Unreal Engine 5 works</h2>
+   </summary>
+    
+  <br>
+    
 <p align="center"> 
 <img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/44e3d291-e9ad-42e6-8d8e-765c59b58d21" alt="ezgif-1-9a9a759aae" width="200" height="350">  
+  
+<img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/a0668c88-4ff7-41aa-876f-c19ea801620d" alt="ezgif-1-8bf639bf12" width="200" height="350"> 
+
+<img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/0ab919e2-60ae-4477-a199-37c1923172d6" alt="ezgif-1-c7d8e1c3ec" width="200" height="350"> 
+  </details>
 </p>
+

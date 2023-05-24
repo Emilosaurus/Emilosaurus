@@ -108,6 +108,9 @@
 <img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/ca3f3a5d-5ddb-4f16-8e96-2ec2d8e2969b" alt="ezgif-1-6ec17727cc" width="200" height="350"> 
 <p align="center">
   
+<a href="https://github.com/Emilosaurus/Blender-Projects/tree/main/Sand%20dune" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/38c40ba9-fe14-45f3-a996-c252e62c567d" alt="java" width="50" height="50"/>
+  </a>
 
 
 <h5 align="center">----------</h5>
@@ -135,7 +138,5 @@
   </details>
 </p>
 <p>
-<a href="https://github.com/Emilosaurus/Blender-Projects/tree/main/Sand%20dune" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-  </a>
+
 </p>

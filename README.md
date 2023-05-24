@@ -91,26 +91,29 @@
 
 <hr style="border:2px solid gray">
 <p align="center"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="150" height="150"/>
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="100" height="100"/>
    </p>
 <h2 align="center"> My Blender works</h2>
 
 <p align="center"> 
-<a href="">
 <img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/dd367d88-f8c2-430e-a1b3-41ff4efc3dd5" alt="ezgif-1-46da791e9f" width="200"style="margin-right: 60px;">
   </a> 
-<a href="https://github.com/Emilosaurus/Blender-Projects/tree/main/Sand%20dune" target="blank">
 <img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/1e6438fb-9322-4c4b-a45a-774b89240a94" alt="ezgif-1-e6ed92ede4" width="200" height="350">
   
-<img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/ca3f3a5d-5ddb-4f16-8e96-2ec2d8e2969b" alt="ezgif-1-6ec17727cc" width="200" height="350">  
-<h5 align="center">Click to view files</h5>
+<img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/ca3f3a5d-5ddb-4f16-8e96-2ec2d8e2969b" alt="ezgif-1-6ec17727cc" width="200" height="350"> 
+<p align="center">
+  
+
+
+<h5 align="center">----------</h5>
 
 </p>
 
 
+
 <hr style="border:2px solid gray">
 <p align="center"> 
- <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="150" height="150"/>
+ <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="100" height="100"/>
 <h2 align="center">My Unreal Engine 5 works</h2>
 <p align="center"> 
 <img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/44e3d291-e9ad-42e6-8d8e-765c59b58d21" alt="ezgif-1-9a9a759aae" width="200" height="350">  

@@ -108,7 +108,7 @@
 <img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/ca3f3a5d-5ddb-4f16-8e96-2ec2d8e2969b" alt="ezgif-1-6ec17727cc" width="200" height="350"> 
 <p align="center">
   
-<a href="https://github.com/Emilosaurus/Blender-Projects/tree/main/Sand%20dune" target="_blank" rel="noreferrer">
+<a href="https://github.com/Emilosaurus/Blender-Projects/tree/main" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/5994/5994710.png" alt="java" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -116,7 +116,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5994/5994710.png" alt="java" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Emilosaurus/Blender-Projects/tree/main/Sand%20dune" target="_blank" rel="noreferrer">
+<a href="https://github.com/Emilosaurus/Blender-Projects/tree/main/Grassland%20cottage" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/5994/5994710.png" alt="java" width="50" height="50"/>
   </a>  
 

@@ -120,7 +120,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5994/5994710.png" alt="java" width="50" height="50"/>
   </a>  
 
-<h5 align="center">----------</h5>
+<h5 align="center">Click Folder icon to view in repo</h5>
 </details>
 </p>
 

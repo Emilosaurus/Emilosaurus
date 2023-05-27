@@ -80,6 +80,9 @@
     <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="Pre Pro" width="50" height="50"/>
   </a> 
+   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/2101px-Adobe_After_Effects_CC_icon.svg.png" alt=" AFX" width="50" height="50"/>
+  </a> 
 </p>    
 
 #    

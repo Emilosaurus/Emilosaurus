@@ -74,6 +74,12 @@
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="50" height="50"/>
   </a>
+  <a href="https://www.autodesk.in/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/autodesk_fusion_macos_bigsur_icon_190367.png" alt="Fusion360" width="50" height="50"/>
+  </a> 
+    <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="Pre Pro" width="50" height="50"/>
+  </a> 
 </p>    
 
 #    

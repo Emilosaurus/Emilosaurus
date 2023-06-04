@@ -110,12 +110,14 @@
   
   <br>
 
-  <div class="horizontal-container">
-  <div>
+ 
+  <div >
 <img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/dd367d88-f8c2-430e-a1b3-41ff4efc3dd5" alt="ezgif-1-46da791e9f" width="200"style="margin-right: 60px;">
    <p align="center">
     <a href="https://github.com/Emilosaurus/Blender-Projects/tree/main" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/5994/5994710.png" alt="java" width="50" height="50"/></a>
+    <img src="https://cdn-icons-png.flaticon.com/512/5994/5994710.png" alt="java" width="50" height="50"/>
+     <br>
+     </a>
     </p>
   </div>
     <div>

@@ -110,33 +110,37 @@
   
   <br>
 
-<div style="display: flex; justify-content: center;">
-  <div>
-    <img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/dd367d88-f8c2-430e-a1b3-41ff4efc3dd5" alt="ezgif-1-46da791e9f" width="200" style="margin-right:30px;">
-    <p align="center">
-      <a href="https://github.com/Emilosaurus/Blender-Projects/tree/main" target="_blank" rel="noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/5994/5994710.png" alt="java" width="50" height="50"/>
-      </a>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <div>
+<img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/dd367d88-f8c2-430e-a1b3-41ff4efc3dd5" alt="ezgif-1-46da791e9f" width="200"style="margin-right: 60px;">
+   <p align="center">
+    <a href="https://github.com/Emilosaurus/Blender-Projects/tree/main" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/5994/5994710.png" alt="java" width="50" height="50"/></a>
     </p>
   </div>
-  <div>
-    <img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/1e6438fb-9322-4c4b-a45a-774b89240a94" alt="ezgif-1-e6ed92ede4" width="200" height="350" style="margin-right:30px;">
-    <p align="center">
-      <a href="https://github.com/Emilosaurus/Blender-Projects/tree/main" target="_blank" rel="noreferrer" >
-        <img src="https://cdn-icons-png.flaticon.com/512/5994/5994710.png" alt="java" width="50" height="50" />
-      </a>
+    </td>
+    <td valign="top">
+      <div>
+<img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/1e6438fb-9322-4c4b-a45a-774b89240a94" alt="ezgif-1-e6ed92ede4" width="200" height="350">
+ <p align="center">
+    <a href="https://github.com/Emilosaurus/Blender-Projects/tree/main" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/5994/5994710.png" alt="java" width="50" height="50"/></a>
     </p>
   </div>
-  <div>
-    <img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/ca3f3a5d-5ddb-4f16-8e96-2ec2d8e2969b" alt="ezgif-1-6ec17727cc" width="200" height="350"> 
-    <p align="center">
-      <a href="https://github.com/Emilosaurus/Blender-Projects/tree/main" target="_blank" rel="noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/5994/5994710.png" alt="java" width="50" height="50"/>
-      </a>
+    </td>
+    <td valign="top">
+      <div>
+<img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/ca3f3a5d-5ddb-4f16-8e96-2ec2d8e2969b" alt="ezgif-1-6ec17727cc" width="200" height="350"> 
+ <p align="center">
+    <a href="https://github.com/Emilosaurus/Blender-Projects/tree/main" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/5994/5994710.png" alt="java" width="50" height="50"/></a>
     </p>
   </div>
-</div>
-
+    </td>
+  </tr>
+</table>
 <h5 align="center">Click Folder icon to view in repo</h5>
 </details>
 </p>

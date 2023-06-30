@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilosaurus&label=Profile%20views&color=0e75b6&style=flat" alt="emilosaurus" /> </p>
 
-- 🔭 I’m currently working on **Marks2csv converter**
+ <!-- - 🔭 I’m currently working on **Marks2csv converter** -->
 
 - 🌱 I’m currently learning **Artificial Intelligence and Data Science**
 
-- 💬 Ask me about **Blender, Video Editing, Aviation, Aircrafts, Space research, Rockets**
+- 💬 Ask me about **Blender, Video Editing, Aviation, aircraft, Space research, Rockets**
 
 - 📫 How to reach me **emil.checks4email@gmail.com**
 <p align="center"> 

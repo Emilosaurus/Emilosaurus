@@ -95,8 +95,8 @@
 
 #    
     
-**Surprize !! There's a  Snake**
-![snake gif](https://github.com/Emilosaurus/Emilosaurus/blob/output/github-contribution-grid-snake.gif)
+<!-- **Surprize !! There's a  Snake**
+![snake gif](https://github.com/Emilosaurus/Emilosaurus/blob/output/github-contribution-grid-snake.gif)-->
 
 <hr style="border:2px solid gray">
 <p align="center"> 

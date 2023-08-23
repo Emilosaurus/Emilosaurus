@@ -17,8 +17,8 @@
 <img align="center" alt="Emilosaurus" width="250" src="https://cdn.dribbble.com/users/22930/screenshots/3203831/gamer.gif">
 </p>
 <hr style="border:2px solid gray">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/emil-saj-abraham-997797215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emil-saj-abraham-997797215" height="30" width="40" /></a>
 <a href="https://instagram.com/pixel_hexal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pixel_hexal" height="30" width="40" /></a>
 <a href="https://discord.gg/Emilsajabraham#9708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Emilsajabraham#9708" height="30" width="40" /></a>

@@ -7,7 +7,7 @@
 
  <!-- - 🔭 I’m currently working on **Marks2csv converter** -->
 
-- 🌱 I’m currently learning **Artificial Intelligence and Data Science**
+- 🌱 I’m currently an **Artificial Intelligence and Data Science** Engineer
 
 - 💬 Ask me about **Blender, Video Editing, Aviation, aircraft, Space research, Rockets**
 

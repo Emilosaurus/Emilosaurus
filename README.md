@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Blender, Video Editing, Aviation, aircraft, Space research, Rockets**
 
-- 📫 How to reach me **emil.checks4email@gmail.com**
+- 📫 How to reach me **emilsajabraham@gmail.com**
 <p align="center"> 
 <img align="left" alt="Emilosaurus" width="585" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
 <img align="center" alt="Emilosaurus" width="250" src="https://cdn.dribbble.com/users/22930/screenshots/3203831/gamer.gif">
@@ -94,79 +94,9 @@
 <p><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=emilosaurus&theme=gruvbox" alt="emilosaurus" /></p>
 
 #    
-    
-<!-- **Surprize !! There's a  Snake**
-![snake gif](https://github.com/Emilosaurus/Emilosaurus/blob/output/github-contribution-grid-snake.gif)-->
-
-<hr style="border:2px solid gray">
-<p align="center"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="100" height="100"/>
-   </p>
-   
-<details align="center"> 
-  <summary>
-<h2 align="center"> My Blender works</h2>
- </summary>
-  
-  <br>
-
-<table align="center">
-  <tr>
-    <td valign="top">
-      <div>
-<img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/dd367d88-f8c2-430e-a1b3-41ff4efc3dd5" alt="ezgif-1-46da791e9f" width="200"style="margin-right: 60px;">
-   <p align="center">
-    <a href="https://github.com/Emilosaurus/Blender-Projects/tree/main/Mercedes%20Benz" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/5994/5994710.png" alt="java" width="50" height="50"/></a>
-    </p>
-  </div>
-    </td>
-    <td valign="top">
-      <div>
-<img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/1e6438fb-9322-4c4b-a45a-774b89240a94" alt="ezgif-1-e6ed92ede4" width="200" height="350">
- <p align="center">
-    <a href="https://github.com/Emilosaurus/Blender-Projects/tree/main/Sand%20dune" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/5994/5994710.png" alt="java" width="50" height="50"/></a>
-    </p>
-  </div>
-    </td>
-    <td valign="top">
-      <div>
-<img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/ca3f3a5d-5ddb-4f16-8e96-2ec2d8e2969b" alt="ezgif-1-6ec17727cc" width="200" height="350"> 
- <p align="center">
-    <a href="https://github.com/Emilosaurus/Blender-Projects/tree/main/Grassland%20cottage" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/5994/5994710.png" alt="java" width="50" height="50"/></a>
-    </p>
-  </div>
-    </td>
-  </tr>
-</table>
-<h5 align="center">Click Folder icon to view in repo</h5>
-</details>
-</p>
 
 
 
-<hr style="border:2px solid gray">
-<p align="center"> 
- <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="100" height="100"/>
-  <details align="center"> 
-  <summary>
-<h2 align="center">My Unreal Engine 5 works</h2>
-   </summary>
-    
-  <br>
-    
-<p align="center"> 
-<img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/44e3d291-e9ad-42e6-8d8e-765c59b58d21" alt="ezgif-1-9a9a759aae" width="200" height="350">  
-  
-<img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/a0668c88-4ff7-41aa-876f-c19ea801620d" alt="ezgif-1-8bf639bf12" width="200" height="350"> 
 
-<img src="https://github.com/Emilosaurus/Emilosaurus/assets/78587473/0ab919e2-60ae-4477-a199-37c1923172d6" alt="ezgif-1-c7d8e1c3ec" width="200" height="350"> 
-  </details>
-</p>
-<p>
-
-</p>
 
 

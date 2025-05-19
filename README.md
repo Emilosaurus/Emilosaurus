@@ -92,6 +92,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Emilosaurus/Emilosaurus/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Emilosaurus/Emilosaurus/output/github-snake.svg" />
 </picture>
+
 #
 
 <p><img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilosaurus&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="emilosaurus" /></p>

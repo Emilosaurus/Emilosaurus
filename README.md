@@ -12,6 +12,7 @@
 - 💬 Ask me about **Blender, Video Editing, Aviation, aircraft, Space research, Rockets**
 
 - 📫 How to reach me **emilsajabraham@gmail.com**
+- 🔗 LinkedIn **https://www.linkedin.com/in/emil-saj-abraham-997797215**
 <p align="center"> 
 <img align="left" alt="Emilosaurus" width="585" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
 <img align="center" alt="Emilosaurus" width="250" src="https://cdn.dribbble.com/users/22930/screenshots/3203831/gamer.gif">

@@ -8,9 +8,6 @@
  <!-- - 🔭 I’m currently working on **Marks2csv converter** -->
 
 - 🌱 I’m currently an **Artificial Intelligence and Data Science** Engineer
-
-- 💬 Ask me about **Blender, Video Editing, Aviation, aircraft, Space research, Rockets**
-
 - 📫 How to reach me **emilsajabraham@gmail.com**
 - 🔗 LinkedIn **https://www.linkedin.com/in/emil-saj-abraham-997797215**
 <p align="center"> 
